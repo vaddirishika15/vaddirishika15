@@ -123,55 +123,6 @@ based on similarity modeling and feature extraction.
   <li>Optimized preprocessing with Pandas & NumPy</li>
 </ul>
 
-<p><strong>Tech Stack:</strong> Python • Pandas • NumPy • Scikit-learn</p>
-
-<hr/>
-
-<h2 align="center">🏆 Achievements</h2>
-<hr/>
-
-<h3>🥇 Gold Medalist – Computer Science Engineering</h3>
-<p>
-Ranked <strong>1st in the CSE Department</strong> among 280 students at CMR College of Engineering and Technology 
-(2021–2025 batch), graduating with First Class with Distinction.
-</p>
-
-<br/>
-
-<h3>🥈 YUKTI Innovation Challenge – 2nd Place</h3>
-<p>
-Secured 2nd position in the national-level YUKTI Innovation Challenge organized by 
-MoE’s Innovation Cell (AICTE), receiving recognition for innovation, funding assistance, 
-and incubation linkage support.
-</p>
-
-<br/>
-
-<h3>🥇 MICROCOSM Project Expo – 1st Place</h3>
-<p>
-Won 1st position at MICROCOSM-2023 Project Expo conducted by Mahatma Gandhi Institute of Technology (MGIT) 
-for presenting an innovative technical solution.
-</p>
-
-<br/>
-
-<h3>💻 HEXATHON – Hackathon Participant</h3>
-<p>
-Shortlisted and participated in a competitive hackathon conducted by Hexagon, 
-collaborating in a fast-paced problem-solving environment.
-</p>
-
-<br/>
-
-<h3>📄 Research Publication – ICTIS 2025</h3>
-<p>
-Published research titled <em>“Tracking Deforestation through Satellite Imagery: A Fusion of Hybrid Classification and Clustering Approach”</em> 
-at the 9th International Conference on Information and Communication Technology for Intelligent Systems (ICTIS 2025), 
-Bangkok, Thailand. Published in Springer LNNS proceedings.
-</p>
-
-<hr/>
-
 <h2 align="center">🚀 Open to Opportunities</h2>
 <hr/>
 
